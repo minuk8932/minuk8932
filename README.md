@@ -49,8 +49,9 @@
 
 
 <br><br>
-![Minwook's github stats](https://github-readme-stats.vercel.app/api?username=minuk8932)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=exponential_e)](https://solved.ac/exponential_e)
+![Minwook's github stats](https://github-readme-stats.vercel.app/api?username=minuk8932)
+
 
 
 
