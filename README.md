@@ -3,6 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminuk8932&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![](https://img.shields.io/github/followers/minuk8932?style=social)
 
+
 <a href="https://exponential-e.tistory.com/">
     <img src="http://img.shields.io/badge/-Tech Blog-00C244?style=plastic&logo=java&link=https://exponential-e.tistory.com/"
          style="height : 15px; margin-left : 10px; margin-right : 10px;"/>
@@ -19,6 +20,9 @@
     <img src="http://img.shields.io/badge/-CodeForce-FF1B2D?style=plastic&logo=java&link=http://codeforces.com/profile/Exponential-e"
          style="height : 15px; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
 
 <br><br>
 **Career, Activity** 👯
@@ -49,9 +53,10 @@
 
 
 <br><br>
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=exponential_e)](https://solved.ac/exponential_e)
-![Minwook's github stats](https://github-readme-stats.vercel.app/api?username=minuk8932)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minuk8932&theme=dark)
+![Minwook's github stats](https://github-readme-stats.vercel.app/api?username=minuk8932&theme=dark&show_icons=true)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=exponential_e)](https://solved.ac/exponential_e)
 
 
 
