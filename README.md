@@ -49,7 +49,7 @@
 <br><br>
 **Awards** 🏆 
 - **Grand Prize**
-  - Food Safety contest **내 손안의 영양사, 식단함** 2020
+  - Food Safety contest **내 손안의 영양사, 식단함** -- 2020.11.27
 
 
 <br><br>
