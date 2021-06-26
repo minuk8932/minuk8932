@@ -31,29 +31,39 @@
 <br><br>
 **Career, Activity** 👯
 
-- Seoul National University of Science and Technology. (BS, Computer engineering)
+- Seoul National University of Science and Technology. (BS, Computer engineering) -- 2012.03 ~ 2018.08
 
-- Software Maestro 10th, Supervised by the Ministry of Science and ICT.
+- BaekJoon Online Judge top 100. Solved problems 2400++ -- 2017.11 ~
 
-- Berkeley SCET.
+- Software Maestro 10th, Supervised by the Ministry of Science and ICT. -- 2019.04 ~ 2019.12
+
+- Berkeley SCET. -- 2020.01 ~ 2020.02
 
 
 
 <br><br>
 **Projects** 🌱
   
-- [**DataSaver**](https://github.com/minuk8932/DataSaver-API), Back-end Developer, SNUT Capstone-design.
+- [**DataSaver**](https://github.com/minuk8932/DataSaver-API), Back-end Developer, SNUT Capstone-design. -- 2017.04 ~ 2017.11
         
-- [**SMART-Referee**](https://github.com/comojin1994/SMART_Referee/blob/master/DL/README.md), Back-end Developer, SW Maestro 10th.
+- [**SMART-Referee**](https://github.com/comojin1994/SMART_Referee/blob/master/DL/README.md), Back-end Developer, SW Maestro 10th completion. -- 2019.04 ~ 2019.12
         
-- [**내 손안의 영양사, 식단함**](https://github.com/FoodSafetyWinnerWinnerChickenDinner), Back-end Developer, FoodSafety Contest.
+- [**내 손안의 영양사, 식단함**](https://github.com/FoodSafetyWinnerWinnerChickenDinner), Back-end Developer, FoodSafety Contest. -- 2021.09 ~ 2021.11
 
 
 
 <br><br>
-**Awards** 🏆 
+**Awards & Acheivement** 🏆 
 - **Grand Prize**
   - Food Safety contest **내 손안의 영양사, 식단함** -- 2020.11.27
+
+- **SW Maestro 10th**
+  - Participated in overseas training for as one of top 15. (among 150 trainees) -- 2019.12.18
+
+- **Certifications**
+  - Data processing engineer -- 2019.05.22
+  - Opic IM1 -- 2020.08.16
+
 
 
 <br><br>
