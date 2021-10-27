@@ -1,4 +1,4 @@
-## minuk8932 (Min-wook Shin, Matthew) ⚡
+## minuk8932 (Min-wook Shin, Locoar) ⚡
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/exponential-e)](//www.linkedin.com/in/exponential-e)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminuk8932&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![](https://img.shields.io/github/followers/minuk8932?style=social)
@@ -37,7 +37,7 @@
 
 - Software Maestro 10th, Supervised by the Ministry of Science and ICT. -- 2019.04 ~ 2019.12
 
-- Berkeley SCET. -- 2020.01 ~ 2020.02
+- UC Berkeley SCET. -- 2020.01 ~ 2020.02
 
 
 
