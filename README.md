@@ -33,7 +33,7 @@
 
 - Seoul National University of Science and Technology. (BS, Computer engineering) -- 2012.03 ~ 2018.08
 
-- BaekJoon Online Judge top 100. Solved problems 2400++ -- 2017.11 ~
+- BaekJoon Online Judge top 100. Solved problems 2500++ -- 2017.11 ~
 
 - Software Maestro 10th, Supervised by the Ministry of Science and ICT. -- 2019.04 ~ 2019.12
 
@@ -61,7 +61,7 @@
   - Participated in overseas training for as one of top 15. (among 150 trainees) -- 2019.12.18
 
 - **Certifications**
-  - Data processing engineer -- 2019.05.22
+  - Information processing engineer -- 2019.05.22
   - Opic IM1 -- 2020.08.16
 
 
