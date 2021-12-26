@@ -25,7 +25,9 @@
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> 
-    </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+    </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+    <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
+</p>
 
 
 <br><br>
@@ -71,6 +73,7 @@
 
 <br><br>
 [![exponential_e @ solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=exponential_e)](https://solved.ac/profile/exponential_e)
+<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minuk8932&layout=compact&theme=dark)
 ![Minwook's github stats](https://github-readme-stats.vercel.app/api?username=minuk8932&theme=dark&show_icons=true)
 
