@@ -65,6 +65,9 @@
   - Opic IM1 -- 2020.08.16
 
 
+<br><br>
+![trophy](https://github-profile-trophy.vercel.app/?username=minuk8932)
+
 
 <br><br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minuk8932&layout=compact&theme=dark)
