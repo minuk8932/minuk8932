@@ -74,6 +74,8 @@
 <br><br>
 [![exponential_e @ solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=exponential_e)](https://solved.ac/profile/exponential_e)
 <br>
+[![solved.ac Profile](https://cf.leed.at/?id=Exponential-e)](https://codeforces.com/profile/Exponential-e)
+<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minuk8932&layout=compact&theme=dark)
 ![Minwook's github stats](https://github-readme-stats.vercel.app/api?username=minuk8932&theme=dark&show_icons=true)
 
