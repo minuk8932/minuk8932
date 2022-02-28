@@ -71,12 +71,11 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=minuk8932)
 
 
-<br><br>
+<br><br><br>
 [![exponential_e @ solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=exponential_e)](https://solved.ac/profile/exponential_e)
 [![solved.ac Profile](https://cf.leed.at/?id=Exponential-e)](https://codeforces.com/profile/Exponential-e)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minuk8932&layout=compact&theme=dark)
-![Minwook's github stats](https://github-readme-stats.vercel.app/api?username=minuk8932&theme=dark&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minuk8932&layout=compact&theme=dark" width="400" height="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=minuk8932&theme=dark&show_icons=true" width="400" height="400"/>
 
 
 
