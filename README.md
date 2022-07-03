@@ -72,6 +72,7 @@
 
 
 <br><br><br>
+![exponential_e's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=exponential_e)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=exponential_e)](https://solved.ac/exponential_e/)
 [![Codeforces Profile](https://cf.leed.at/?id=Exponential-e)](https://codeforces.com/profile/Exponential-e)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minuk8932&layout=compact&theme=dark" width="400" height="400"/>
